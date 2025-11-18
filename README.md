@@ -1,2 +1,2 @@
 # triangleCalc
-My first python script for calculation of right angle. I made on elementary school in my native language xD
+My first python script for calculation of right angle in triangle. I made it on elementary school in my native language xD I have no idea how that code looks. Plz don't judge me:D
